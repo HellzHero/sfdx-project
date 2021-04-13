@@ -24,7 +24,7 @@
                         Latitude: sObject[component.get("v.latField")],
                         Longitude: sObject[component.get("v.longField")]
                     }
-                } //ewfsdfs
+                }
             ]);
         }
     }
