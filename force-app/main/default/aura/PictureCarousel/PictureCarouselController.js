@@ -7,7 +7,6 @@
 	        component.set("v.slideIndex", slideIndex);
         }
 	},
-//testeete
     prev: function(component) {
        	var slideIndex = component.get("v.slideIndex");
         if (slideIndex > 0) {
