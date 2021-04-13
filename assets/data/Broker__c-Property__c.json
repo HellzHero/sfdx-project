@@ -415,6 +415,7 @@
                     }
                 ]
             }
+<<<<<<< HEAD
         },
         {
             "attributes": {
@@ -1666,6 +1667,8 @@
                 ]
             }
 >>>>>>> parent of e5ab32f (Merge branch 'master' into feature-chan-map)
+=======
+>>>>>>> parent of e94a11f (both components)
         }
     ]
 }
